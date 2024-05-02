@@ -11,6 +11,7 @@
 		3762F4F12BE37FB700D67A82 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3762F4F02BE37FB700D67A82 /* SceneDelegate.swift */; };
 		3762F4F32BE37FB700D67A82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3762F4F22BE37FB700D67A82 /* ViewController.swift */; };
 		3762F4F82BE37FB800D67A82 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3762F4F72BE37FB800D67A82 /* Assets.xcassets */; };
+		376D35262BE3872D00DC54CC /* UIColor+theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 376D35252BE3872D00DC54CC /* UIColor+theme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3762F4F22BE37FB700D67A82 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3762F4F72BE37FB800D67A82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3762F4FC2BE37FB800D67A82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		376D35252BE3872D00DC54CC /* UIColor+theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+theme.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				3762F4EE2BE37FB700D67A82 /* AppDelegate.swift */,
 				3762F4F02BE37FB700D67A82 /* SceneDelegate.swift */,
 				3762F4F22BE37FB700D67A82 /* ViewController.swift */,
+				376D35252BE3872D00DC54CC /* UIColor+theme.swift */,
 				3762F4F72BE37FB800D67A82 /* Assets.xcassets */,
 				3762F4FC2BE37FB800D67A82 /* Info.plist */,
 			);
@@ -131,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3762F4F32BE37FB700D67A82 /* ViewController.swift in Sources */,
+				376D35262BE3872D00DC54CC /* UIColor+theme.swift in Sources */,
 				3762F4EF2BE37FB700D67A82 /* AppDelegate.swift in Sources */,
 				3762F4F12BE37FB700D67A82 /* SceneDelegate.swift in Sources */,
 			);
